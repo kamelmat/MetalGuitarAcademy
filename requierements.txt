@@ -1,0 +1,5 @@
+react
+react-dom
+react-icons
+react-bootstrap
+styled-components

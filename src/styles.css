@@ -1,0 +1,11 @@
+/* Custom modal width */
+.modal-90w {
+  max-width: none !important; /* Force removal of max-width restriction */
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Additional specificity to ensure it overrides Bootstrap styles */
+.modal-90w .modal-dialog {
+  max-width: none !important; /* Override Bootstrap's max-width */
+}

@@ -1,6 +1,6 @@
 # 🎸 Metal Guitar Course
 
-![Logo](public/logo.jpeg)
+![Logo](src/assets/logo.jpeg)
 
 Welcome to the **Metal Guitar Course** project! This application provides users with an interactive platform to learn guitar techniques, enroll in courses, and connect with instructors. 🤘
 
